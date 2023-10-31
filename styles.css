@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Special+Elite&display=swap");
+html {
+  background-color: #000;
+}
+
+.text {
+  display: block;
+  width: 50%;
+  margin-top: 40px;
+  margin-inline: auto;
+  white-space: pre-line;
+  font-family: "Special Elite";
+  font-size: 24px;
+  line-height: 42px;
+}/*# sourceMappingURL=styles.css.map */
